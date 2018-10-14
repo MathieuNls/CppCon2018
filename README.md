@@ -14,9 +14,11 @@ and code from [CppCon 2018](http://cppcon.org).
 
 ## Presentations
 
+ - [A Little Order - Delving Into The STL Sorting Algorithms](Presentations/a_little_order_delving_into_the_stl_sorting_algorithms/a_little_order_delving_into_the_stl_sorting_algorithms__fred_tingaud__cppcon_2018.pdf) by Fred Tingaud
  - [An Allocator is a Handle to a Heap](Presentations/an_allocator_is_a_handle_to_a_heap/an_allocator_is_a_handle_to_a_heap__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
  - [Avoiding Disasters with Strongly Typed C++](Presentations/avoiding_disasters_with_strongly_typed_cpp/avoiding_disasters_with_strongly_typed_cpp__arno_lepisk__cppcon_2018.pdf) by Arno Lepisk
- - [Better C++ using Machine Learning on Large Projects](Presentations/better_cpp_using_machine_learning_on_large_projects/better_cpp_using_machine_learning_on_large_projects_cppcon_2018.pdf) by Nicolas Fleury & Mathieu Nayrolles
+ - [Beast.WebSockets](Presentations/beastwebsockets/beastwebsockets__vinnie_falco__cppcon_2018.pdf) by Vinnie Falco \[[README](Presentations/beastwebsockets/README.md)\]
+ - [Better C++ using Machine Learning on Large Projects](Presentations/better_cpp_using_machine_learning_on_large_projects/better_cpp_using_machine_learning_on_large_projects__nicolas_fleury_mathieu_nayrolles__cppcon_2018.pdf) by Nicolas Fleury, Mathieu Nayrolles
  - [Build Systems: A Simple Solution to a Complicated Problem](Presentations/build_systems_a_simple_solution_to_a_complicated_problem/build_systems_a_simple_solution_to_a_complicated_problem__peter_bindels__cppcon_2018.pdf) by Peter Bindels
  - [Building a C++ Reflection System in One Weekend Using Clang and LLVM](Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm__arvid_gerstmann__cppcon_2018.pdf) by Arvid Gerstmann \[[README](Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/README.md)\]
  - [Building Multi-Million Line C++ Projects Effortlessly with the Meson Build System](Presentations/building_multimillion_line_cpp_projects_effortlessly_with_the_meson_build_system/building_multimillion_line_cpp_projects_effortlessly_with_the_meson_build_system__jussi_pakkanen__cppcon_2018.pdf) by Jussi Pakkanen
@@ -27,6 +29,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Crafting Embedded Domain Specific Language (EDSL) in C++](Presentations/crafting_embedded_domain_specific_language_in_cpp/crafting_embedded_domain_specific_language_in_cpp__gilang_hamidy__cppcon_2018.pdf) by Gilang Hamidy \[[more materials](Presentations/crafting_embedded_domain_specific_language_in_cpp)\]
  - [CUDA Kernels with C++](Presentations/cuda_kernels_with_cpp/cuda_kernels_with_cpp__michael_gopshtein__cppcon_2018.pdf) by Michael Gopshtein
  - [Dealing with Aliasing Using Contracts](Presentations/dealing_with_aliasing_using_contracts/dealing_with_aliasing_using_contracts__gabor_horvath__cppcon_2018.pdf) by Gábor Horváth
+ - [Debug C++ Without Running](Presentations/debug_cpp_without_running/debug_cpp_without_running__anastasia_kazakova__cppcon_2018.pdf) by Anastasia Kazakova
  - [Declarative Style in C++](Presentations/declarative_style_in_cpp/declarative_style_in_cpp__ben_deane__cppcon_2018.pdf) by Ben Deane
  - [Design for Performance](Presentations/design_for_performance/design_for_performance__fedor_pikus__cppcon_2018.pdf) by Fedor Pikus
  - [Don't package your libraries, write packagable libraries!](Presentations/dont_package_your_libraries_write_packagable_libraries/dont_package_your_libraries_write_packagable_libraries__robert_schumacher__cppcon_2018.pdf) by Robert Schumacher \[[.pdf](Presentations/dont_package_your_libraries_write_packagable_libraries/dont_package_your_libraries_write_packagable_libraries__robert_schumacher__cppcon_2018.pdf)\] \[[.pptx](Presentations/dont_package_your_libraries_write_packagable_libraries/dont_package_your_libraries_write_packagable_libraries__robert_schumacher__cppcon_2018.pptx)\]
@@ -42,9 +45,11 @@ and code from [CppCon 2018](http://cppcon.org).
  - [Liberating the Debugging Experience with the gdb Python API](Presentations/liberating_the_debugging_experience_with_the_gdb_python_api/liberating_the_debugging_experience_with_the_gdb_python_api__jeff_trull__cppcon_2018.pdf) by Jeff Trull
  - [Make It Fixable: Preparing for Security Vulnerability Reports](Presentations/make_it_fixable/make_it_fixable__patricia_aas__cppcon_2018.pdf) by Patricia Aas
  - [minidumps: gdb-compatible, software controlled core dumps](Presentations/minidumps_gdbcompatible_software_controlled_core_dumps/minidumps_gdbcompatible_software_controlled_core_dumps__matthew_fleming__cppcon_2018.pdf) by Matthew Fleming
+ - [Modern C++ in Embedded Systems - The Saga Continues](Presentations/modern_cpp_in_embedded_systems_the_saga_continues/modern_cpp_in_embedded_systems_the_saga_continues__michael_caisse__cppcon_2018.pdf) by Michael Caisse
  - [Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time](Presentations/multiprecision_arithmetic_for_cryptology_in_cpp/multiprecision_arithmetic_for_cryptology_in_cpp__niek_j_bouman__cppcon_2018.pdf) by Niek J Bouman
  - [OOP is dead, long live Data-oriented design](Presentations/oop_is_dead_long_live_dataoriented_design/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf) by Stoyan Nikolov
  - [Operator Overloading](Presentations/operator_overloading/operator_overloading__ben_deane__cppcon_2018.pdf) by Ben Deane
+ - [Rapid Prototyping of Graphics Shaders in Modern C++](Presentations/rapid_prototyping_of_graphics_shaders_in_modern_cpp/rapid_prototyping_of_graphics_shaders_in_modern_cpp__valentin_galea__cppcon_2018.pdf) by Valentin Galea
  - [Return Value Optimization - Harder Than It Looks](Presentations/return_value_optimization_harder_than_it_looks/return_value_optimization_harder_than_it_looks__arthur_odwyer__cppcon_2018.pdf) by Arthur O'Dwyer
  - [Sane and Safe C++ Classes](Presentations/sane_and_safe_cpp_classes/sane_and_safe_cpp_classes__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
  - [Save $$ Testing Code the Playback-Based Way](Presentations/save_money_testing_code_the_playbackbased_way/save_money_testing_code_the_playbackbased_way__william_clements__cppcon_2018.pptx) by William Clements
@@ -59,6 +64,7 @@ and code from [CppCon 2018](http://cppcon.org).
  - [What do you mean thread-safe?](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pdf) by Geoff Romer \[[.pdf](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pdf)\] \[[.pptx](Presentations/what_do_you_mean_threadsafe/what_do_you_mean_threadsafe__geoff_romer__cppcon_2018.pptx)\]
  - [What to Expect from a Next-Generation C++ Build System](Presentations/what_to_expect_from_a_nextgeneration_cpp_build_system/what_to_expect_from_a_nextgeneration_cpp_build_system__boris_kolpackov__cppcon_2018.pdf) by Boris Kolpackov
  - [Woes of Scope Guards and Unique Resource](Presentations/woes_of_scope_guards_and_unique_resource/woes_of_scope_guards_and_unique_resource__peter_sommerlad__cppcon_2018.pdf) by Peter Sommerlad
+ - [Writing Standard Library Compliant Data Structures and Algorithms](Presentations/writing_standard_library_compliant_data_structures_and_algorithms/writing_standard_library_compliant_data_structures_and_algorithms__marc_gregoire__cppcon_2018.pptx) by Marc Gregoire
 
 ## Lightning Talks and Lunch Sessions
 
